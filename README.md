@@ -5,7 +5,7 @@ A SwiftUI app that displays a list of doctors with their details.
 ## Requirements
 
 - **iOS**: 18.0+
-- **Xcode**: 16.2+
+- **Xcode**: 26.2+
 
 ## Setup & Run
 
