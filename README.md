@@ -133,3 +133,10 @@ For a code challenge, native frameworks provide everything needed:
 - **XCTest**: Unit testing
 
 Benefits: Smaller binary, faster builds, no dependency management.
+
+
+---
+
+## Time Spent at this challenge
+
+12hrs Aproximately
